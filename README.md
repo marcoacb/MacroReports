@@ -11,7 +11,7 @@ This project is a VBA Excel Macro designed for reviewing daily SLAs. It allows y
 3. [Preview](#preview)
 4. [Features](#features)
 5. [Sample Data](#sample-data)
-6. [Usage](#usage)
+6. [Code Snippets](#code-snippets)
    - [Sheet 1: Executive Summary](#sheet-1-executive-summary)
    - [Sheet 2: Sales Analysis](#sheet-2-sales-analysis)
    - [Sheet 3: Customer Analysis](#sheet-3-customer-analysis)
@@ -35,9 +35,9 @@ The following technologies were used to develop this dashboard:
 - Visualizations: line charts, bar charts, doughnut charts.
 
 ## Sample Data
-The dashboard uses sample data from the `example_dataset.csv` file. This dataset includes information on sales, customers, and products.
+An example of the data used for this project is found in the repository. `Sample Data/SampleData - MacroReports.xlsx` file. Most of the data was intentionally deleted.
 
-## Usage
+## Code Snippets
 ### Sheet 1: Executive Summary
 The Executive Summary sheet provides an overview of the most important data, including:
 - **Key Performance Indicators (KPIs)**: Displays the most relevant KPIs such as total sales, number of customers, etc.
