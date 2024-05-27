@@ -29,7 +29,7 @@ The following technologies were used to develop this dashboard:
 - **Task Scheduler**: For automating duties.
 
 ## Preview
-![Example of email sent](path/to/preview.png)
+![Example of email sent](image/MacroReport1.jpg)
 
 ## Features
 - Interactive visualizations: line charts, bar charts, pie charts, and more.
