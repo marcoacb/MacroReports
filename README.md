@@ -19,17 +19,17 @@ This project is a VBA Excel Macro designed for reviewing daily SLAs. It allows y
 7. [Contacts and Support](#contacts-and-support)
 
 ## Background
-This project was undertaken to address a specific need of the service we provided to our client, a financial institution. The task involved retrieving information from the ticketing tool, calculating resolution times according to the established SLAs, and then sending these results via email.
+This project addressed a specific need for the service we provided to our client, a financial institution. The task involved retrieving information from the ticketing tool, calculating resolution times according to the established SLAs, and then sending these results via email.
 
 ## Technologies Used
 The following technologies were used to develop this dashboard:
 - **SQL**: For data querying and manipulation.
-- **Power Query**: For data transformation and connection.
-- **Power Automate**: For automating workflows and data integration.
-- **[Add other technologies as needed]**
+- **ODBC**: For connecting to DB
+- **VBA Excel**: For data transformation, programming code, and charts.
+- **Task Scheduler**: For automating duties.
 
 ## Preview
-![Dashboard Preview](path/to/preview.png)
+![Example of email sent](path/to/preview.png)
 
 ## Features
 - Interactive visualizations: line charts, bar charts, pie charts, and more.
