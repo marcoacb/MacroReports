@@ -24,18 +24,15 @@ This project addressed a specific need for the service we provided to our client
 ## Technologies Used
 The following technologies were used to develop this dashboard:
 - **SQL**: For data querying and manipulation.
-- **ODBC**: For connecting to DB
-- **VBA Excel**: For data transformation, programming code, and charts.
+- **ODBC**: For connect excel with the database
+- **VBA Excel**: For programming code, and charts.
 - **Task Scheduler**: For automating duties.
 
 ## Preview
 ![Example of email sent](image/MacroReport1.jpg)
 
 ## Features
-- Interactive visualizations: line charts, bar charts, pie charts, and more.
-- Dynamic filters: filter data by date, category, and other dimensions.
-- Customizable panels: adjust layout and content according to your needs.
-- Data export: export visualizations and data in multiple formats.
+- Visualizations: line charts, bar charts, doughnut charts.
 
 ## Sample Data
 The dashboard uses sample data from the `example_dataset.csv` file. This dataset includes information on sales, customers, and products.
