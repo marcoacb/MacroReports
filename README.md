@@ -35,7 +35,7 @@ The following technologies were used to develop this dashboard:
 - Visualizations: line charts, bar charts, doughnut charts.
 
 ## Sample Data
-An example of the data used for this project is found in the repository. `Sample Data/SampleData - MacroReports.xlsx` file. Most of the data was intentionally deleted.
+An example of the data used for this project is found in `Sample Data/SampleData - MacroReports.xlsx` file. Most of the data was intentionally deleted.
 
 ## Code Snippets
 ### Sheet 1: Executive Summary
