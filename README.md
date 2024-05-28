@@ -338,7 +338,7 @@ and COMPLETED_DATE < CONVERT(char(10),GETDATE(), 121)
 ### VBA
 
 In this section, I share some of the key methods and functions developed in VBA (Visual Basic for Applications) used throughout my projects:
-- **Get the data when the file is opened**:
+- **Get the data when the file (.xlsm) is opened**:
   ```
   Sub Actualizar()
 
